@@ -13,6 +13,6 @@
 
 ### 📫 How to reach me:
 - 📧 Email: davidvu1021@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vudavid2/)
 
 Thanks for stopping by!
