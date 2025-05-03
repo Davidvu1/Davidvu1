@@ -15,8 +15,12 @@
 - 📧 Email: davidvu1021@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/vudavid2/)
 
-### Fun Facts:
-- I am really good at Overwatch and Marvel Rivals...
+---
+
+### 🌎 Fun Facts:
+- I am really good at games called Overwatch and Marvel Rivals...
 - In fact, I was a top 30 ranked player in Overwatch and trialled for Team Canada for the 2023 Overwatch World Cup
+- I've done paid coaching sessions for hundreds of players to get better at these games
+- I also really like to explore restaurants all over the world to find great food! (Feel free to contact me for food places around Toronto)
 
 Thanks for stopping by!
