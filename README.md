@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Science student at the University of Toronto, passionate about building useful tech.
 
-💼 I am an incoming intern at [Sendo.vn](https://www.sendo.vn) (a subsidiary of [FPT](https://fpt.com/en)) as an **AI Software Engineer Intern**, where I will work on powering e-commerce solutions in Vietnam.
+💼 I previously interned at [Sendo.vn](https://www.sendo.vn) (a subsidiary of [FPT](https://fpt.com/en)) as an **AI Software Engineer Intern**, where I worked on AI agents and software tools that power e-commerce groceries in Vietnam.
 
 <img src="https://github.com/user-attachments/assets/827c9343-4bbe-430e-83b0-48d0f7782bde" width="100"/>
 
