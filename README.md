@@ -1,6 +1,7 @@
 # Hi, I'm David Vu
 
-🎓 I'm a 2nd year Computer Science student at the University of Toronto, passionate about building useful tech.
+🎓 I'm a 3rd year Computer Science student at the University of Toronto, passionate about building useful tech.
+Places I've worked: IBM, Canadian Imperial Bank of Commerce, FPT Sendo Farm
 
 # View my [portfolio website](https://davidvu.ca/)
 
