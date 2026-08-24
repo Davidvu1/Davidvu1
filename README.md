@@ -5,9 +5,9 @@
 Statistics and Psychology are also pretty interesting, so I'm minoring in those too.
 
 Places I'm working/worked: 
-- Infra SWE at IBM
-- Full Stack SWE  at Canadian Imperial Bank of Commerce (CIBC)
-- Full Stack SWE at FPT Sendo Farm
+- Infra SWE Intern at IBM
+- Full Stack SWE Intern  at Canadian Imperial Bank of Commerce (CIBC)
+- Full Stack SWE Intern at FPT Sendo Farm
 
 # View my [portfolio website](https://davidvu.ca/)
 
