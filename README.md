@@ -1,6 +1,6 @@
 # Hi, I'm David Vu
 
-I'm a 3rd-year Computer Science student at the University of Toronto, low-key just building whatever I feel like 
+I'm a 3rd-year Computer Science student at the University of Toronto, lowkenuinely just building whatever I feel like. 
 
 Statistics and Psychology are pretty interesting, so I'm minoring in those too.
 
