@@ -5,7 +5,7 @@ I'm a 3rd-year Computer Science student at the University of Toronto, lowkenuine
 Statistics and Psychology are pretty interesting, so I'm minoring in those too.
 
 Places I'm working/worked: 
-- Infra SWE Intern at IBM
+- Cloud Infra SWE/Platform Intern at IBM
 - Full Stack SWE Intern  at Canadian Imperial Bank of Commerce (CIBC)
 - Full Stack SWE Intern at FPT Sendo Farm
 
